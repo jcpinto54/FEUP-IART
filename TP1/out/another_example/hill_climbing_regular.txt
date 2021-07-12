@@ -1,0 +1,6 @@
+Solution value: 39001
+Remaining budget: 1
+Execution time: 0.0010035037994384766s
+
+(6, 4)
+(7, 20)
